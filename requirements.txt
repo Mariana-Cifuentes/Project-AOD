@@ -1,0 +1,13 @@
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+mysql-connector-python
+openpyxl
+requests
+geopandas
+shapely
+fiona
+pyproj
+rtree
